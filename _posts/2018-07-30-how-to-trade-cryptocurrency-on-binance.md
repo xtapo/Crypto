@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Cryptocurrency on Binance
-date: 2017-07-30 12:00:00
+date: 2018-07-30 12:00:00
 description: Once you own Bitcoin, sending it to your Binance Account is a piece of cake. Within the homepage of Binance, just navigate to the top right hand corner. Hover over “Funds” then click “Deposits Withdrawals”, which will then take you here… # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
