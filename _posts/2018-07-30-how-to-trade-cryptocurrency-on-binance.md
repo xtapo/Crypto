@@ -3,7 +3,10 @@ layout: post
 title: How to Trade Cryptocurrency on Binance
 date: 2018-07-30 12:00:00
 description: >-
-  Crypto Xtapo is dedicated to the latest crypto world news and recommendations, including stories from Coinbase, the most popular place to buy and sell digital ...
+  Once you own Bitcoin, sending it to your Binance Account is a piece of cake.
+  Within the homepage of Binance, just navigate to the top right hand corner.
+  Hover over “Funds” then click “Deposits Withdrawals”, which will then take you
+  here…
 img: binance.jpg
 fig-caption:
 tags:
