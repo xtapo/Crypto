@@ -11,15 +11,15 @@ img: binance.jpg
 fig-caption:
 tags:
   - Binanace
-  - cryto
   - trade
+  - crypto
 ---
 
 So you’ve researched a new coin and the only place to buy it is on (my favorite) exchange Binance! I am going to show you how to transfer funds over from your wallet to [Binance](https://www.binance.com/?ref=20225737) to start exchanging to those other coins!
 
 Binance is a Chinese exchange that has truly singled themselves from the competition. They currently have one of the easiest and nicest looking exchanges out there. They are renowned to host some of the newest coins on the market well before they hit other exchanges. They also have Binance Labs which is a blockchain incubator. Have an idea? Get it funded. There is also a Binance token ($BNB) which is great to lower your trading fees.
 
-Check out this video:&nbsp;[https://www.youtube.com/watch?v=fuE91GvogNw](https://www.youtube.com/watch?v=fuE91GvogNw){: target="_blank"}
+Check out this video: [https://www.youtube.com/watch?v=fuE91GvogNw](https://www.youtube.com/watch?v=fuE91GvogNw){: target="_blank"}
 
 Things to remember: Transfers from wallets to exchanges can be a little slower than normal, BTC takes 2 confirmations to show up while LTC takes 6, be patient!
 
@@ -27,7 +27,7 @@ If you have any questions tweet at me! @crypt0prof
 
 Step 1:
 
-Head over to&nbsp;[Binance](https://www.binance.com/?ref=20225737){: target="_blank"}&nbsp;or&nbsp;[https://www.binance.com/?ref=20225737](https://www.binance.com/?ref=20225737){: target="_blank"}&nbsp;(Yes this is a referral link). At the top right corner you will see ‘Login or Register’ button. Go ahead a click register to get started.
+Head over to [Binance](https://www.binance.com/?ref=20225737){: target="_blank"} or [https://www.binance.com/?ref=20225737](https://www.binance.com/?ref=20225737){: target="_blank"} (Yes this is a referral link). At the top right corner you will see ‘Login or Register’ button. Go ahead a click register to get started.
 
 ![](/uploads/how-to-trade-cryptocurrency-on-binance.png)
 
