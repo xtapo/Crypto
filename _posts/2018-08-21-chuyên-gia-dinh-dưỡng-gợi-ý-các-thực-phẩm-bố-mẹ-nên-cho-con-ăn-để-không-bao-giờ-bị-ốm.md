@@ -8,8 +8,7 @@ description: >-
   Một trong những băn khoăn lớn nhất của các ông bố bà mẹ là làm thế nào để trẻ
   ít ốm đau nhất, có cách gì giúp trẻ có hệ miễn dịch khỏe mạnh? Nên lựa chọn
   những thực phẩm nào giúp trẻ tăng cường hệ miễn dịch?
-img: >-
-  /uploads/chuyen-gia-dinh-duong-goi-y-cac-thuc-pham-bo-me-nen-cho-con-an-xtapo-1.jpg
+img: chuyen-gia-dinh-duong-goi-y-cac-thuc-pham-bo-me-nen-cho-con-an-xtapo-1.jpg
 permalink:
 fig-caption:
 tags:
