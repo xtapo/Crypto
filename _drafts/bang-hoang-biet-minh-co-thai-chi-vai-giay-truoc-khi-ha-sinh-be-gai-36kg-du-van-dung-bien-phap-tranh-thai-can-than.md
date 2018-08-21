@@ -1,13 +1,15 @@
 ---
 layout: post
 title: >-
-  bang-hoang-biet-minh-co-thai-chi-vai-giay-truoc-khi-ha-sinh-be-gai-36kg-du-van-dung-bien-phap-tranh-thai-can-than
-date: 2018-08-21 12:00:00
+  Bàng hoàng biết mình có thai chỉ vài giây trước khi hạ sinh bé gái 3,6kg dù
+  vẫn dùng biện pháp tránh thai cẩn thận
+date: 2018-08-21 00:00:00
 description: >-
-  Để có 3 tháng cuối thai kỳ thật thoải mái, bạn hãy áp dụng những lời khuyên
-  dưới đây nhé.
+  Một người mẹ 29 tuổi dù đã trải qua 3 lần sinh nở, vẫn dùng biện pháp tránh
+  thai cẩn thận nhưng đã có thai sát đến giây phút chuyển dạ mà không hề hay
+  biết.
 img: 3-thang-cuoi-thai-ky-xtapo.png
-permalink: /7-dieu-ban-can-lam-de-3-thang-cuoi-thai-ky-thoai-mai/
+permalink:
 fig-caption:
 tags:
   - sức khỏe mang thai
@@ -18,3 +20,4 @@ tags:
   - mang thai
   - yoga
 ---
+
