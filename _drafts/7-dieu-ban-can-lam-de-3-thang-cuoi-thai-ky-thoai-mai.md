@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 7-dieu-ban-can-lam-de-3-thang-cuoi-thai-ky-thoai-mai
-date: 2018-07-30 12:00:00
+title: 7 điều bạn cần làm để 3 tháng cuối thai kỳ thoải mái
+date: 2018-08-21 12:00:00
 description: >-
   Để bảo vệ cơ thể người mẹ và đảm bảo em bé sinh ra khỏe mạnh nhất, các bà bầu
   cần chú ý đến thói quen ăn uống và sinh hoạt của mình. Đặc biệt là trong 3
@@ -19,3 +19,4 @@ tags:
   - tháng 9
   - mang thai
 ---
+
