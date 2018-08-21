@@ -10,7 +10,7 @@ description: >-
   tháng cuối thai kỳ, cần dừng ngay những việc làm có thể ảnh hưởng không tốt
   tới cả mẹ và con.
 img: 3-thang-cuoi-xtapo.png
-permalink: /3-thang-cuoi-thai-ky-me-bau-nen-tuyet-doi-tranh-lam-nhung-viec-nay-de-me-va-be-deu-khoe-manh
+permalink: /3-thang-cuoi-thai-ky-me-bau-nen-tuyet-doi-tranh-lam-nhung-viec-nay-de-me-va-be-deu-khoe-manh/
 fig-caption:
 tags:
   - sức khỏe mang thai
