@@ -9,7 +9,7 @@ description: >-
   cần chú ý đến thói quen ăn uống và sinh hoạt của mình. Đặc biệt là trong 3
   tháng cuối thai kỳ, cần dừng ngay những việc làm có thể ảnh hưởng không tốt
   tới cả mẹ và con.
-img:
+img: 3-thang-cuoi-xtapo.png
 fig-caption:
 tags:
   - sức khỏe mang thai
