@@ -23,7 +23,7 @@ tags:
 
 **Để bảo vệ cơ thể người mẹ v&agrave; đảm bảo em b&eacute; sinh ra khỏe mạnh nhất, c&aacute;c b&agrave; bầu cần ch&uacute; &yacute; đến th&oacute;i quen ăn uống v&agrave; sinh hoạt của m&igrave;nh. Đặc biệt l&agrave; trong 3 th&aacute;ng cuối thai kỳ, cần dừng ngay những việc l&agrave;m c&oacute; thể ảnh hưởng kh&ocirc;ng tốt tới cả mẹ v&agrave; con.**
 
-Sau giai đoạn dễ chịu nhất trong tam c&aacute; nguyệt thứ hai, mẹ bầu bước v&agrave;o [3 th&aacute;ng cuối thai kỳ](7-dieu-ban-can-lam-de-3-thang-cuoi-thai-ky-thoai-mai/) với nhiều sự mệt mỏi v&agrave; kh&oacute; chịu hơn hẳn. V&agrave; trong giai đoạn n&agrave;y vẫn c&oacute; những việc m&agrave; b&agrave; bầu kh&ocirc;ng n&ecirc;n l&agrave;m v&agrave; nếu đang l&agrave;m th&igrave; n&ecirc;n dừng lại v&igrave; n&oacute; kh&aacute; nguy hiểm với cả mẹ v&agrave; thai nhi.
+Sau giai đoạn dễ chịu nhất trong tam c&aacute; nguyệt thứ hai, mẹ bầu bước v&agrave;o [3 th&aacute;ng cuối thai kỳ](/7-dieu-ban-can-lam-de-3-thang-cuoi-thai-ky-thoai-mai/) với nhiều sự mệt mỏi v&agrave; kh&oacute; chịu hơn hẳn. V&agrave; trong giai đoạn n&agrave;y vẫn c&oacute; những việc m&agrave; b&agrave; bầu kh&ocirc;ng n&ecirc;n l&agrave;m v&agrave; nếu đang l&agrave;m th&igrave; n&ecirc;n dừng lại v&igrave; n&oacute; kh&aacute; nguy hiểm với cả mẹ v&agrave; thai nhi.
 
 #### 1. Tắm nước qu&aacute; n&oacute;ng
 
