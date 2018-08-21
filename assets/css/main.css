@@ -1001,7 +1001,7 @@ table tfoot td {
 }
 
 .content-box {
-  padding: 20px;
+  padding: 70px;
   padding-left: 260px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1196,7 +1196,7 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
-  padding: 20px;
+  padding: 70px;
 }
 
 .header-page {
